@@ -1,0 +1,111 @@
+,Times jogando em casa,Times visitantes,Resultado casa:visita
+0,Atlético-MG,Chapecoense,3 : 0
+1,Corinthians,Avaí,1 : 1
+2,Coritiba,Vasco,0 : 0
+3,Figueirense,Fluminense,1 : 0
+4,Flamengo,Palmeiras,1 : 2
+5,Goias,São Paulo,0 : 1
+6,Internacional,Cruzeiro,2 : 0
+7,Joinville,Grêmio,0 : 2
+8,Ponte Preta,Sport Recife,0 : 1
+9,Santos,Atlético-PR,5 : 1
+10,Atlético-PR,Flamengo,3 : 0
+11,Chapecoense,Goias,1 : 3
+12,Palmeiras,Coritiba,0 : 2
+13,Vasco,Santos,1 : 0
+14,Cruzeiro,Joinville,3 : 0
+15,Grêmio,Atlético-MG,2 : 1
+16,Sport Recife,Corinthians,2 : 0
+17,Avaí,Ponte Preta,1 : 0
+18,Fluminense,Internacional,1 : 1
+19,São Paulo,Figueirense,3 : 2
+20,Coritiba,Santos,1 : 0
+21,Fluminense,Avaí,3 : 1
+22,Sport Recife,Atlético-PR,0 : 0
+23,Flamengo,Ponte Preta,1 : 1
+24,Atlético-MG,Goias,2 : 2
+25,Corinthians,São Paulo,6 : 1
+26,Figueirense,Chapecoense,0 : 0
+27,Internacional,Grêmio,1 : 0
+28,Joinville,Vasco,1 : 2
+29,Palmeiras,Cruzeiro,1 : 1
+30,Santos,Flamengo,0 : 0
+31,São Paulo,Atlético-MG,4 : 2
+32,Vasco,Corinthians,1 : 1
+33,Chapecoense,Internacional,1 : 0
+34,Grêmio,Fluminense,1 : 0
+35,Atlético-PR,Palmeiras,3 : 3
+36,Avaí,Joinville,2 : 1
+37,Ponte Preta,Figueirense,0 : 1
+38,Goias,Coritiba,1 : 3
+39,Cruzeiro,Sport Recife,3 : 0
+40,Sport Recife,Grêmio,1 : 0
+41,Joinville,Santos,0 : 0
+42,Cruzeiro,São Paulo,2 : 1
+43,Figueirense,Atlético-MG,0 : 1
+44,Flamengo,Goias,4 : 1
+45,Palmeiras,Vasco,0 : 2
+46,Fluminense,Chapecoense,2 : 3
+47,Atlético-PR,Avaí,2 : 1
+48,Corinthians,Coritiba,2 : 1
+49,Internacional,Ponte Preta,1 : 0
+50,Goias,Internacional,2 : 1
+51,Vasco,Fluminense,0 : 1
+52,Atlético-MG,Corinthians,0 : 3
+53,Chapecoense,Atlético-PR,0 : 0
+54,Grêmio,Flamengo,2 : 0
+55,Santos,Palmeiras,2 : 1
+56,Coritiba,Figueirense,1 : 1
+57,Avaí,Cruzeiro,1 : 1
+58,Ponte Preta,Joinville,1 : 0
+59,São Paulo,Sport Recife,3 : 0
+60,Atlético-MG,Ponte Preta,2 : 1
+61,Goias,Cruzeiro,0 : 1
+62,Chapecoense,Avaí,0 : 0
+63,Corinthians,Flamengo,1 : 0
+64,Coritiba,São Paulo,1 : 2
+65,Vasco,Grêmio,0 : 0
+66,Palmeiras,Sport Recife,0 : 2
+67,Figueirense,Santos,0 : 0
+68,Internacional,Joinville,1 : 0
+69,Fluminense,Atlético-PR,0 : 1
+70,Sport Recife,Atlético-MG,4 : 1
+71,Grêmio,Chapecoense,2 : 3
+72,Santos,Goias,3 : 1
+73,Atlético-PR,Corinthians,1 : 4
+74,Flamengo,Internacional,0 : 1
+75,São Paulo,Vasco,2 : 2
+76,Cruzeiro,Fluminense,2 : 0
+77,Ponte Preta,Coritiba,3 : 0
+78,Joinville,Figueirense,1 : 0
+79,Avaí,Palmeiras,1 : 3
+80,Grêmio,Santos,1 : 0
+81,Corinthians,Goias,3 : 0
+82,Vasco,Chapecoense,1 : 1
+83,Atlético-PR,Cruzeiro,2 : 2
+84,Fluminense,São Paulo,2 : 0
+85,Figueirense,Flamengo,3 : 0
+86,Joinville,Coritiba,3 : 1
+87,Palmeiras,Ponte Preta,0 : 1
+88,Atlético-MG,Internacional,2 : 1
+89,Sport Recife,Avaí,3 : 0
+90,Chapecoense,Palmeiras,5 : 1
+91,Cruzeiro,Grêmio,0 : 0
+92,Goias,Figueirense,2 : 3
+93,Ponte Preta,Corinthians,2 : 2
+94,Santos,Fluminense,3 : 1
+95,Avaí,Vasco,1 : 1
+96,Flamengo,Joinville,2 : 0
+97,São Paulo,Atlético-PR,1 : 0
+98,Coritiba,Atlético-MG,0 : 3
+99,Internacional,Sport Recife,2 : 1
+100,Cruzeiro,Coritiba,2 : 0
+101,Sport Recife,Chapecoense,3 : 0
+102,Figueirense,Corinthians,1 : 3
+103,Flamengo,Vasco,1 : 2
+104,Joinville,Atlético-MG,2 : 2
+105,São Paulo,Palmeiras,1 : 1
+106,Atlético-PR,Ponte Preta,1 : 2
+107,Santos,Internacional,3 : 1
+108,Grêmio,Avaí,3 : 1
+109,Fluminense,Goias,2 : 0

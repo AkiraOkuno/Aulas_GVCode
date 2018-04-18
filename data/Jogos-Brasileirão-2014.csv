@@ -1,0 +1,111 @@
+,Times jogando em casa,Times visitantes,Resultado casa:visita
+0,Botafogo,Atlético-MG,0 : 0
+1,Coritiba,Bahia,3 : 2
+2,Cruzeiro,Fluminense,2 : 1
+3,Goias,Chapecoense,4 : 2
+4,Grêmio,Flamengo,1 : 1
+5,Palmeiras,Atlético-PR,1 : 1
+6,Sport Recife,São Paulo,1 : 0
+7,Vitória,Santos,0 : 1
+8,Corinthians,Criciúma,2 : 1
+9,Figueirense,Internacional,1 : 2
+10,Atlético-MG,Coritiba,1 : 2
+11,Atlético-PR,Goias,1 : 0
+12,Bahia,Grêmio,1 : 0
+13,Chapecoense,Cruzeiro,1 : 1
+14,Fluminense,Corinthians,5 : 2
+15,Santos,Botafogo,2 : 0
+16,São Paulo,Figueirense,1 : 1
+17,Flamengo,Vitória,4 : 0
+18,Criciúma,Sport Recife,2 : 2
+19,Internacional,Palmeiras,3 : 1
+20,Chapecoense,Botafogo,2 : 0
+21,Corinthians,Grêmio,1 : 0
+22,Coritiba,Palmeiras,2 : 0
+23,Cruzeiro,Goias,2 : 1
+24,Figueirense,Vitória,2 : 0
+25,Flamengo,Criciúma,1 : 1
+26,Santos,São Paulo,0 : 1
+27,Sport Recife,Fluminense,2 : 2
+28,Bahia,Atlético-PR,1 : 2
+29,Internacional,Atlético-MG,2 : 1
+30,Grêmio,Cruzeiro,1 : 2
+31,Fluminense,Chapecoense,1 : 4
+32,Atlético-MG,Flamengo,4 : 0
+33,Palmeiras,Sport Recife,0 : 2
+34,Criciúma,Bahia,0 : 1
+35,Goias,Corinthians,0 : 1
+36,Vitória,Coritiba,1 : 1
+37,Atlético-PR,Santos,1 : 1
+38,Botafogo,Figueirense,0 : 1
+39,Atlético-MG,Figueirense,1 : 1
+40,Chapecoense,Vitória,0 : 1
+41,São Paulo,Palmeiras,2 : 0
+42,Atlético-PR,Sport Recife,0 : 1
+43,Bahia,Corinthians,1 : 2
+44,Flamengo,Coritiba,3 : 2
+45,Internacional,Goias,1 : 0
+46,Santos,Cruzeiro,0 : 1
+47,Criciúma,Grêmio,0 : 3
+48,Fluminense,Botafogo,1 : 0
+49,São Paulo,Internacional,1 : 1
+50,Corinthians,Santos,1 : 0
+51,Cruzeiro,Criciúma,3 : 1
+52,Goias,Bahia,3 : 0
+53,Figueirense,Chapecoense,1 : 0
+54,Grêmio,Internacional,4 : 1
+55,Sport Recife,Flamengo,2 : 2
+56,Vitória,São Paulo,1 : 2
+57,Botafogo,Atlético-PR,0 : 2
+58,Coritiba,Fluminense,1 : 0
+59,Palmeiras,Atlético-MG,0 : 2
+60,Bahia,Palmeiras,0 : 1
+61,Atlético-PR,Atlético-MG,1 : 0
+62,Flamengo,Chapecoense,3 : 0
+63,Criciúma,São Paulo,1 : 2
+64,Cruzeiro,Botafogo,2 : 1
+65,Santos,Internacional,1 : 2
+66,Sport Recife,Figueirense,1 : 0
+67,Corinthians,Coritiba,2 : 2
+68,Goias,Fluminense,0 : 2
+69,Grêmio,Vitória,1 : 0
+70,São Paulo,Goias,3 : 0
+71,Botafogo,Flamengo,2 : 1
+72,Internacional,Bahia,2 : 0
+73,Atlético-MG,Sport Recife,3 : 2
+74,Chapecoense,Santos,1 : 1
+75,Coritiba,Grêmio,1 : 1
+76,Vitória,Criciúma,3 : 1
+77,Figueirense,Cruzeiro,1 : 1
+78,Fluminense,Atlético-PR,2 : 1
+79,Palmeiras,Corinthians,1 : 1
+80,Sport Recife,Goias,0 : 1
+81,Chapecoense,São Paulo,0 : 0
+82,Santos,Fluminense,0 : 1
+83,Coritiba,Botafogo,2 : 0
+84,Grêmio,Figueirense,1 : 0
+85,Corinthians,Vitória,2 : 1
+86,Criciúma,Atlético-PR,0 : 1
+87,Cruzeiro,Palmeiras,1 : 1
+88,Flamengo,Internacional,2 : 0
+89,Bahia,Atlético-MG,1 : 1
+90,Botafogo,Sport Recife,1 : 1
+91,Vitória,Cruzeiro,0 : 1
+92,Atlético-PR,Flamengo,2 : 1
+93,Figueirense,Coritiba,4 : 0
+94,Internacional,Corinthians,1 : 2
+95,Palmeiras,Santos,1 : 3
+96,Atlético-MG,Chapecoense,1 : 0
+97,Fluminense,Criciúma,4 : 2
+98,Goias,Grêmio,0 : 0
+99,São Paulo,Bahia,2 : 1
+100,Atlético-PR,Figueirense,3 : 0
+101,Criciúma,Santos,3 : 0
+102,Sport Recife,Vitória,1 : 2
+103,Atlético-MG,São Paulo,1 : 0
+104,Bahia,Chapecoense,0 : 1
+105,Flamengo,Cruzeiro,3 : 0
+106,Internacional,Fluminense,2 : 1
+107,Palmeiras,Grêmio,2 : 1
+108,Botafogo,Corinthians,1 : 0
+109,Goias,Coritiba,3 : 0
